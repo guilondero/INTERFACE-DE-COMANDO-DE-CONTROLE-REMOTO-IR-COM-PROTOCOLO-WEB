@@ -45,6 +45,24 @@ interface web.
  <img src="https://user-images.githubusercontent.com/97804927/155641716-053e0fd0-ce3f-4cb4-8a86-7a21a41dbc3b.JPG" width="300px" />
  </div>
  
+ ## Circuitos implementados
+ - **Decodificador**
+ <div align ="center">
+ <img src="https://user-images.githubusercontent.com/97804927/155764724-8301459a-3337-4b3a-bd64-342785b44517.JPG" width="500px" />
+ </div>
+ <div align ="center">
+ <img src="https://user-images.githubusercontent.com/97804927/155764869-4ab9e5bf-d3d1-435e-b084-31a0ea364521.JPG" width="400px" />
+ </div>
+ 
+ - **Emissor**
+ <div align ="center">
+ <img src="https://user-images.githubusercontent.com/97804927/155765583-ed247947-74a3-47ae-b580-1bc493544a31.JPG" width="400px" />
+ </div>
+
+
+
+
+ 
  
  
  

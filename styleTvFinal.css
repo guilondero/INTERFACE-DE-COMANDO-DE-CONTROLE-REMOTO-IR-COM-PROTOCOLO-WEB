@@ -1,0 +1,59 @@
+html {
+    font-family: Helvetica;
+    display: inline-block;
+    margin: 0px auto;
+    text-align: center;
+}
+.buttonPower {
+    background-color: #ff0000;
+    border-color: white;
+    border-radius: 50%;
+    color: white;
+    padding: 16px 40px;
+    text-decoration: none;
+    font-size: 30px;
+    margin: 2px;
+    cursor: pointer;
+}
+#buttonOff {
+    background-color: #1b680b;
+}
+.button {
+    background-color: #ff6b08;
+    border: 1.5px solid white;
+    color: white;
+    padding: 20px 20px;
+    text-decoration: none;
+    font-size: 30px;
+    cursor: pointer;
+}
+.button2 {
+    background-color: blue;
+}
+.gridControle{
+    background-color: black;
+    width: 350px;
+    height: 470px;
+    padding: 10px;
+    margin: auto;
+    border: 10px solid gray;
+    border-radius: 50px;
+}
+.gridContainerComandos{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    padding: 10px;
+}
+.footer{
+    text-align:center;
+    color:#ffffff;
+    font-size:0.8rem;
+    padding:10px;
+}
+.footerInfos{
+    border: medium solid purple;
+    border-radius: 50px;
+    margin: 40px auto;
+    width: 350px;
+    height: 200px;
+}

@@ -1,0 +1,13 @@
+html{font-family: Helvetica;display: inline-block;margin: 0px auto;text-align: center;}
+.botaoPower{background-color: #4d0b83;border: 2.5px solid white;border-radius: 50%;color: white;padding: 20px 20px;text-decoration: none;font-size: 30px;margin: 2px;cursor: pointer;}
+#buttonOff{background-color: #1b680b;}
+.botaoCores{border: 1.5px solid white;border-radius: 50%;color: white;height: 50px;width: 50px;text-decoration: none;font-size: 30px;cursor: pointer;}
+#botaoRed{background-color: red;}
+#botaoGreen{background-color: green;}
+#botaoBlue{background-color: blue;}
+.botaoBrilho{background-color: rgb(226, 174, 62);border: 1.5px solid white;border-radius: 2px;color: white;font-size: 15px;height: 40px;width: 60px;}
+.gridControle{background-color: rgb(0, 0, 0);width: 350px;height: 415px;padding: 10px;margin: auto;border:10px solid gray;border-radius: 50px;}
+.gridContainerComandos{background-color: black;display: grid;margin-top: 30px;grid-template-columns: auto auto auto;padding: 10px;}
+.textoControle{color:#ffffff;padding-top: 10px;}
+#footer{margin-top: 10px;background-color: black;padding:10px;}
+.footerInfos{border: 2px solid rgb(64, 4, 99);border-radius: 50px;margin: 40px auto;width: 350px;height: 200px;}

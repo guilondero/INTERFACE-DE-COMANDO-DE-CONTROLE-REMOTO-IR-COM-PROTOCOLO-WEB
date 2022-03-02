@@ -50,6 +50,7 @@ interface web.
  <div align ="center">
  <img src="https://user-images.githubusercontent.com/97804927/155764724-8301459a-3337-4b3a-bd64-342785b44517.JPG" width="500px" />
  </div>
+ <hr>
  <div align ="center">
  <img src="https://user-images.githubusercontent.com/97804927/155764869-4ab9e5bf-d3d1-435e-b084-31a0ea364521.JPG" width="400px" />
  </div>

@@ -50,7 +50,6 @@ interface web.
  <div align ="center">
  <img src="https://user-images.githubusercontent.com/97804927/155764724-8301459a-3337-4b3a-bd64-342785b44517.JPG" width="500px" />
  </div>
- <hr style ="color:black">
  <div align ="center">
  <img src="https://user-images.githubusercontent.com/97804927/155764869-4ab9e5bf-d3d1-435e-b084-31a0ea364521.JPG" width="400px" />
  </div>
@@ -65,16 +64,26 @@ interface web.
  </div>
 
 ## Comunicação e protocolo
-Um dos protocolos utilizado para comandos IR é o protocolo NEC, que utiliza a modulação PCM com faixas de frequência portadora de 38kHz para transmitir pulsos que são representados em bits, com suas informações. 
+Um dos protocolos utilizado para comandos IR é o protocolo NEC, que utiliza a modulação PCM com faixas de frequência portadora de 38kHz para transmitir pulsos que são representados em bits, com suas informações. O caminho da comunicação é: **Executar um comando na interface WEB > ESP32 executar o mesmo comando no emissor IR > Emissor IR enviar o comando para a TV.** 
 <div align ="center">
 <img src="https://user-images.githubusercontent.com/97804927/155821220-07892bd8-9a58-4613-b2df-0af5cb3d1e39.JPG" width="500px" />
 </div>
+<hr style ="color:black">
 <div align ="center">
 <img src="https://user-images.githubusercontent.com/97804927/155821010-c972766c-0c6b-4e45-bb7e-fce320f799b8.JPG" width="200px" />
 </div>
+<hr style ="color:black">
 <div align ="center">
 <img src="https://user-images.githubusercontent.com/97804927/155821052-0b64d1af-ad55-458f-bf8a-5ed5517568f5.JPG" width="300px" />
 </div>
+
+## Aplicação WEB
+Para a aplicação web, foram utilizado as linguaguens de programação HTLML e o CSS para estilos, esses codigos foram inseridos dentro mesmo do ESP, atraves da IDE do Arduino.
+Os codigos separadamente também se encontram disponivel no repositorio
+<div align ="center">
+<img src="https://user-images.githubusercontent.com/97804927/156939574-031a8b41-3a3a-46bc-b1a4-749946c901fa.JPG" width="300px" />
+</div>
+
 
 
 

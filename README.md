@@ -24,7 +24,7 @@ interface web.
   - **Receptor IR:**
   O receptor IR foi utilizado para captar os sinais infravermelhos enviados a partir do controle remoto original, estes que foram utilizados pelo emissor posteriormente. Diferente do emissor, o receptor é composto por um pino VCC, um pino GND e um de Signal Out
   <div align ="center">
-  <img src="https://user-images.githubusercontent.com/97804927/155640805-0ac48278-f726-48a8-9d2d-dc3c59483800.JPG" width="200px" />
+  <img src="https://user-images.githubusercontent.com/97804927/155640805-0ac48278-f726-48a8-9d2d-dc3c59483800.JPG" width="300px" />
   </div>
   
   - **Protoboard 830 pontos:**

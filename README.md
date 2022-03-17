@@ -1,6 +1,6 @@
 # INTERFACE DE COMANDO DE CONTROLE REMOTO IR COM PROTOCOLO WEB
 O objetivo deste projeto é criar um controle remoto para um aparelho TX9 BOX capaz de ser operado via
-interface web. O projeto
+interface web. O projeto compriu 
 
 ## Materiais Utilizados
  - **ESP-WROOM-32:**
